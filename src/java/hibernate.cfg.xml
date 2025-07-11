@@ -9,5 +9,6 @@
     <property name="hibernate.connection.password">Cusal30@</property>
     <property name="hibernate.show_sql">true</property>
     <mapping class= "hibernate.Brand"/>
+    <mapping class= "hibernate.Product"/>
   </session-factory>
 </hibernate-configuration>
